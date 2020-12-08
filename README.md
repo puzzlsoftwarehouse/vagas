@@ -61,7 +61,7 @@ Os projetos já estão em produção e a vaga busca profissional para ajudar a c
 
 ## Desenvolvedor Front-End SENIOR 
 
-A vaga de densevoldeor front-end SENIOR busca devs que já passaram por tudo nessa vida que estajam buscando ambiente tranquilo com produto sólido para manter e ajudar a desenvolver o time e o pipeline de dev. 
+A vaga de densevoldeor front-end SENIOR busca devs que já passaram por tudo nessa vida que estejam buscando ambiente tranquilo com produto sólido para manter e ajudar a desenvolver o time e o pipeline de dev. 
 
 Os projetos já estão em produção e a vaga busca profissional para ajudar a continuar o roadmap do produto. 
 
